@@ -1,7 +1,7 @@
 # McDonald's Coupon Ordering System
 
 ## Description
-This project is a Tkinter GUI for McDonald's coupon ordering.
+A McDonald's coupon ordering system based on Tkinter GUI
 
 ## Key Features
 - Crawl McDonald's coupon information including food name, price, food images using Python crawler
